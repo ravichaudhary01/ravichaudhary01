@@ -1,5 +1,5 @@
 <p align="center">
- <img src=""  alt="Banner />
+ <img src="https://github.com/ravichaudhary01/ravichaudhary01/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png?raw=true"  alt="Banner />
 </p>
    
 <h1 align="center">Hi 👋, I'm Ravi Chaudhary</h1>
